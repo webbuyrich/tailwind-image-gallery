@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tailwind-image-gallery/static/css/main.073c9b0a.css",
+    "main.js": "/tailwind-image-gallery/static/js/main.9a3781a7.js",
+    "static/js/787.96d6a4b8.chunk.js": "/tailwind-image-gallery/static/js/787.96d6a4b8.chunk.js",
+    "static/media/logo.svg": "/tailwind-image-gallery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tailwind-image-gallery/index.html",
+    "main.073c9b0a.css.map": "/tailwind-image-gallery/static/css/main.073c9b0a.css.map",
+    "main.9a3781a7.js.map": "/tailwind-image-gallery/static/js/main.9a3781a7.js.map",
+    "787.96d6a4b8.chunk.js.map": "/tailwind-image-gallery/static/js/787.96d6a4b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9a3781a7.js"
+  ]
+}
